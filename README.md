@@ -6,21 +6,31 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software engineering is the use of sofware engineering tools and principles to produce reliable software products.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Problem solving.
 
-
+Logical and Creative Thinking.
+Implementation
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Analysis of the issue/challenge, this is where software engineers to analyse the issuea and use their problem solving skills to determine the type of software that can solve the issue at hand.
+Product development, software engineers develop the sofware product that seems suitable to solve the problem.
+Product Testing, software engineers put their software product into practice by checking whether the product functions at the required standard.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+The waterfall methodology is a methodology used to develop a software product by following a rigid sequence, a sequence that cannot be changed. On the other hand, the Agile methodology is used to develop a product by following a flexible approach that can be change based on user review. The waterfall methodology can be used in developing a small project because small products have clearly defined requirements. This provides less reasons for a further development on the software product. The Agile methodology is a changeable approach in developing a software product. This methodology can be used in instances where the quality of the product needs future improvement. Further more, it may be used in instances where the Software Engineers, want to maintain transparency with the clients in the development of the software product. 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+A Software Engineer writes code and implements sofware solutions to the problem at hand
+A Quality Assurance Enginner ensures that the software meets the required quality by designing testing plans
+A Project Manager overseas the planning, execution and delivery of the software as a product 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
+Intergrated Development Environments enable Software Engineers to write code and develop software. One example of a IDE is Pycharm 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
